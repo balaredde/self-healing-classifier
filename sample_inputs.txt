@@ -1,0 +1,32 @@
+# Sample test inputs for the classifier
+# Use these to test different scenarios
+
+# High Confidence - Clearly Positive
+This movie was absolutely fantastic! I loved every minute of it and can't wait to watch it again.
+
+# High Confidence - Clearly Negative  
+Terrible movie. Complete waste of time and money. I want my 2 hours back.
+
+# Low Confidence - Ambiguous/Sarcastic
+Oh great, another predictable rom-com. Just what the world needed.
+
+# Low Confidence - Mixed sentiment
+The acting was good but the plot was painfully slow and boring.
+
+# Low Confidence - Neutral
+It was okay. Nothing special, nothing terrible.
+
+# High Confidence - Positive with enthusiasm
+Brilliant cinematography! Outstanding performances! A true masterpiece of modern cinema!
+
+# High Confidence - Negative with strong emotion
+Absolutely awful. Poorly written, badly acted, and completely forgettable.
+
+# Low Confidence - Sarcastic negative (might be misclassified)
+Yeah, this was totally the best movie I've ever seen. Sure.
+
+# Medium Confidence - Somewhat positive
+Decent movie overall. Had some good moments and the ending was satisfying.
+
+# Medium Confidence - Somewhat negative
+Not the worst movie I've seen, but definitely below average. Pretty disappointing.
